@@ -21,7 +21,7 @@ Writing, generating, publishing and consuming documentation for web deliverables
 + **[devdocs.io](http://devdocs.io/)**: Devdocs is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 + **[dox](https://github.com/visionmedia/dox)**: JavaScript documentation generator for node using markdown and jsdoc.
 + **[styledocco](http://jacobrask.github.io/styledocco/)**: StyleDocco generates documentation and style guide documents from your stylesheets.
-
++ **[docz](https://github.com/pedronauck/docz)**: Docz is a zero-config, blazing fast and high customizable tool that will help you a lot to write your documentation and test your components!
 
 ------------------
 
